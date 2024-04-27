@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Pizza Website"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "The New Africa"
+	}
+}
